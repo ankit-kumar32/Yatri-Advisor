@@ -4,6 +4,7 @@ This is a travel advisory web application that allows users to discover top rest
 Additionally, the application displays the current weather conditions in the selected city using the Open Weather Map API.
 
 Link [Live Demo](https://yatri-advisor.netlify.app/).
+
 **Features**:
 * Search for a city and view its top restaurants, hotels, and attractions.
 * Display current weather conditions in the selected city.
