@@ -18,8 +18,8 @@ Link [Live Demo](https://yatri-advisor.netlify.app/).
 * [ReactJS](https://react.dev/)
 * [Material UI](https://mui.com/)
 * [Rapidapi](https://rapidapi.com/hub/)
-* [Travel Advisor Api] (https://rapidapi.com/apidojo/api/travel-advisor/)
-* [open weather map api] (https://openweathermap.org/api/)
+* [Travel Advisor Api](https://rapidapi.com/apidojo/api/travel-advisor)
+* [open weather map api](https://openweathermap.org/api)
 
 **Contributing**
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue.
